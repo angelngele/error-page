@@ -52,4 +52,10 @@ body{
     background:  #0048D9;
     color: white;
     width: 300px;
+    border: none;
+}
+.button a{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
 }
